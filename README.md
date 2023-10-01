@@ -1,4 +1,4 @@
-C Programming: Getting Started - 1 <br>
+<h1>C Programming: Getting Started - 1</h1>h1> <br>
 this is going to be a repository for the course of c language of dartmouth college <br>
 the link for the [Course](https://www.coursera.org/learn/c-programming-getting-started). <br>
 <h1>Disclaimer</h1>
