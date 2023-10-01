@@ -1,6 +1,6 @@
 <h1>C Programming: Getting Started - 1</h1> <br>
 this is going to be a repository for the course of c language of dartmouth college <br>
-the link for the [GitHub Pages](https://pages.github.com/)
+the link for the course https://www.coursera.org/learn/c-programming-getting-started
 
 <br>
 
