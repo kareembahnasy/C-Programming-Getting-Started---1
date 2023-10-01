@@ -1,8 +1,9 @@
 int main(){
+      int i = 0;
       int multiplier = 8;
-      for (int i = 0 ; i <= 10; i++){
+      for (i=0;i<11;i++){
         int result = multiplier * i;
-        printf("%d x %d = %d \n", multiplier ,i , result);
+        printf("%dx%d = %d \n", i ,multiplier , result);
       }
       
     return 0;
