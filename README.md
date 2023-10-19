@@ -1,6 +1,6 @@
-<h1>C Programming: Getting Started - 1</h1> <br>
+<h1>C Programming with Linux Specialization</h1> <br>
 this is going to be a repository for the course of c language of dartmouth college <br>
-the link for the course https://www.coursera.org/learn/c-programming-getting-started
+the link for the course https://www.coursera.org/specializations/c-programming-linux
 
 <br>
 
